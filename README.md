@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/yourusername/your-repo)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo?style=social)
 
-> Short description of your project (what it does, purpose, or goal).
+> Auth Skeleton is a MERN-based authentication template that provides secure user login, registration, and file upload functionality. It serves as a foundation for scalable web applications, enabling quick setup of authentication, authorization, and data handling features.
 
 ---
 
